@@ -1,0 +1,2 @@
+# Projeto-de-POO
+Projeto que fiz na disciplina de Programação Orientada a Objetos no 2° período do curso de ADS. O projeto é sobre um sistema chamado SAFS (Sistema de Avaliação de Filmes e Séries) feito para que usuário possam avaliar filmes e séries.
